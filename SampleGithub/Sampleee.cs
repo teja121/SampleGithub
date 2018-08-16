@@ -8,5 +8,7 @@ namespace SampleGithub
     public class Sampleee
     {
         public int MyProperty { get; set; }
+
+        //able to pull the solution from github repository
     }
 }
