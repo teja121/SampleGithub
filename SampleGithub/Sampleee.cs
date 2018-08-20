@@ -10,5 +10,7 @@ namespace SampleGithub
         public int MyProperty { get; set; }
 
         //able to pull the solution from github repository
+        //Pushing to Github
+
     }
 }
